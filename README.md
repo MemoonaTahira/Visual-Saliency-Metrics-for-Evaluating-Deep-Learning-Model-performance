@@ -1,7 +1,7 @@
 # Visual Saliency Metrics for Evaluating Deep-Learning Model Performance
 This code allows you to calculate 5 of the most popular saliency metrics to determine how well a model predicted visual saliency by comparing it to a ground truth in python. 
 
-This code is based on [FixTons](https://github.com/MemoonaTahira/FixaTons) and [Salgan](https://github.com/MemoonaTahira/saliency-salgan-2017). Please cite them if you use this code.
+This code is based on [FixTons](https://github.com/dariozanca/FixaTons) and [Salgan](https://github.com/imatge-upc/salgan). Please cite them if you use this code.
 
 
 # FixaTons
@@ -62,7 +62,9 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________
 
-More saliency metrics can be added by adding their code in the visual_attention.py file. [Pysaliency] (https://github.com/MemoonaTahira/pysaliency) is a python package that has code for many diffferent metrics. Unfortunately the package works with a limited number of datasets and Models. 
+More saliency metrics can be added by adding their code in the visual_attention.py file. [Pysaliency] (https://github.com/matthias-k/pysaliency) is a python package that has code for many diffferent metrics. Unfortunately the package works with a limited number of datasets and Models. 
+
+You can also check out the latest commit of [FixaTons](https://github.com/dariozanca/FixaTons) for AUC_Shuffled and Infogain Metrics. 
 
 ## Citations
 If you intend to use this collection of datasets on your research, please cite the technical report
