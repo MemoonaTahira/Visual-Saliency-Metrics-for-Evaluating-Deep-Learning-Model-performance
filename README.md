@@ -53,7 +53,7 @@ ________________________________________________________________________________
          
           - Model_name
             
-                 -SALIENCY MAPS: for each category
+              -SALIENCY MAPS: for each category
             
             
 - Output
