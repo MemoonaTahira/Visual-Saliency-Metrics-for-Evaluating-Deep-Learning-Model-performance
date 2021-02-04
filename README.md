@@ -7,7 +7,7 @@ This code is based on [FixTons](https://github.com/dariozanca/FixaTons) and [Sal
 # FixaTons
 A collection of Human FixationsDatasets and Metrics (AUC-Judd, KLdiv, NSS) for Scanpath Similarity
 
-Here I used only my own dataset [CrowdFix](https://github.com/MemoonaTahira/CrowdFix) and evaluated it over different saliency prediction Models. You can see the results [here](https://ieeexplore.ieee.org/document/8918032). 
+Here I used my own dataset [CrowdFix](https://github.com/MemoonaTahira/CrowdFix) and evaluated it over different saliency prediction Models. You can see the results [here](https://ieeexplore.ieee.org/document/8918032). 
  
 # Edit:
 
