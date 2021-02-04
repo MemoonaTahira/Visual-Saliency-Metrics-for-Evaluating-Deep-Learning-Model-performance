@@ -62,7 +62,7 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________
 
-More saliency metrics can be added by adding their code in the visual_attention.py file. [Pysaliency] (https://github.com/matthias-k/pysaliency) is a python package that has code for many diffferent metrics. Unfortunately the package works with a limited number of datasets and Models. 
+More saliency metrics can be added by adding their code in the visual_attention.py file. [Pysaliency](https://github.com/matthias-k/pysaliency) is a python package that has code for many diffferent metrics. Unfortunately the package works with a limited number of datasets and Models. 
 
 You can also check out the latest commit of [FixaTons](https://github.com/dariozanca/FixaTons) for AUC_Shuffled and Infogain Metrics. 
 
