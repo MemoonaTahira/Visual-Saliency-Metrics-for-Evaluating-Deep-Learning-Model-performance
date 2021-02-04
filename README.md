@@ -1,4 +1,4 @@
-# Visual-Saiency-Metrics-for-Evaluating-Deep-Learning-Model-performance
+# Visual Saliency Metrics for Evaluating Deep-Learning Model Performance
 This code allows you to calculate 5 of the most popular saliency metrics to determine how well a model predicted visual saliency by comparing it to a ground truth in python. 
 
 This code is based on [FixTons](https://github.com/MemoonaTahira/FixaTons) and [Salgan](https://github.com/MemoonaTahira/saliency-salgan-2017). Please cite them if you use this code.
