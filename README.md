@@ -57,7 +57,7 @@ ________________________________________________________________________________
             
             
 - Output
-    - A .txt containing values of each saliency metrics
+    - A .txt containing values of each saliency metrics. The output file is overwritten each time you run the code again. 
           
 
 _______________________________________________________________________________
