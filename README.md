@@ -62,7 +62,7 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________
 
-More saliency metrics can be added by adding their code in the visual_attention.py file. Pysaliency is a python package that has many diffferent metrics. Unfortunately the package works with a limited number of datasets.
+More saliency metrics can be added by adding their code in the visual_attention.py file. [Pysaliency] (https://github.com/MemoonaTahira/pysaliency) is a python package that has code for many diffferent metrics. Unfortunately the package works with a limited number of datasets and Models. 
 
 ## Citations
 If you intend to use this collection of datasets on your research, please cite the technical report
