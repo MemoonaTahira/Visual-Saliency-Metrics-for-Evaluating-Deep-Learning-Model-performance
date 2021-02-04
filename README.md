@@ -11,7 +11,7 @@ Here I used my own dataset [CrowdFix](https://github.com/MemoonaTahira/CrowdFix)
  
 # Edit:
 
-Added two new saliency metrics (CC and Sim) and added a main file demonstarting how to use the saliency metrics.
+Added two new saliency metrics (CC and Sim) and added a main file demonstrating how to use the saliency metrics.
 
 The ground truths are for the CrowdFix dataset which has three classes representing three categories of crowds: Sparse, Dense Free-Flowing and Dense Congested. If you have a dataset with different classes, you can use a similar file structure to hold each class and its corresponding ground truth.
 
