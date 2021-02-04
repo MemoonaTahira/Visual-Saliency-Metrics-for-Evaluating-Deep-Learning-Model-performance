@@ -3,7 +3,6 @@ This code allows you to calculate 5 of the most popular saliency metrics to dete
 
 This code is based on [FixTons](https://github.com/dariozanca/FixaTons) and [Salgan](https://github.com/imatge-upc/salgan). Please cite them if you use this code.
 
-
 # FixaTons
 A collection of Human FixationsDatasets and Metrics (AUC-Judd, KLdiv, NSS) for Scanpath Similarity
 
@@ -70,6 +69,8 @@ You can also check out the latest commit of [FixaTons](https://github.com/darioz
 If you intend to use this collection of datasets on your research, please cite the technical report
 
 - FixaTons technical report: https://arxiv.org/abs/1802.02534
+
+- Junting Pan, Cristian Canton, Kevin McGuinness, Noel E. O'Connor, Jordi Torres, Elisa Sayrol and Xavier Giro-i-Nieto. "SalGAN: Visual Saliency Prediction with Generative Adversarial Networks." arXiv. 2017.
 
 
  
