@@ -9,7 +9,7 @@ A collection of Human FixationsDatasets and Metrics (AUC-Judd, KLdiv, NSS) for S
 
 Here I used only my own dataset (CrowdFix) and evaluated it over different saliency prediction Models. 
  
-# Edit by Memoona:
+# Edit:
 
 Added two new saliency metrics (CC and Sim) and added a main file demonstarting how to use the saliency metrics.
 
