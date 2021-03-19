@@ -1,7 +1,7 @@
 # Visual Saliency Metrics for Evaluating Deep-Learning Model Performance
-This code allows you to calculate 5 of the most popular saliency metrics to determine how well a model predicted visual saliency by comparing it to a ground truth in python. 
+This code allows you to calculate 5 of the most popular saliency metrics to determine how well a deep learning model predicted visual saliency by comparing it to a ground truth in python. 
 
-This code is based on [FixTons](https://github.com/dariozanca/FixaTons) and [Salgan](https://github.com/imatge-upc/salgan). Please cite them if you use this code.
+This code is built on the code from [FixTons](https://github.com/dariozanca/FixaTons) and [Salgan](https://github.com/imatge-upc/salgan). Please cite them if you use this code.
 
 # FixaTons
 A collection of Human FixationsDatasets and Metrics (AUC-Judd, KLdiv, NSS) for Scanpath Similarity
