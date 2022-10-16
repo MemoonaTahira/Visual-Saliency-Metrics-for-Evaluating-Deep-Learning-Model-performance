@@ -1,5 +1,4 @@
 # Visual Saliency Metrics for Evaluating Deep-Learning Model Performance
-=======
 
 This code allows you to calculate 5 of the most popular saliency metrics *AUC-Judd, KLdiv, NSS, CC and Sim* to determine how well a deep learning model predicted visual saliency by comparing it to a ground truth in python. 
 
