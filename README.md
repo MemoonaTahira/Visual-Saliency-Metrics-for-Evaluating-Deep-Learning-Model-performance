@@ -8,7 +8,7 @@ This code is built on the code from [FixTons](https://github.com/dariozanca/Fixa
 A collection of Human FixationsDatasets and Metrics *(AUC-Judd, KLdiv, NSS)* for Scanpath Similarity
 
  
-# Contribution:
+# Additions:
 
 I used my own dataset [CrowdFix](https://github.com/MemoonaTahira/CrowdFix) and evaluated it over different saliency prediction Models. You can see the results [here](https://ieeexplore.ieee.org/document/8918032).
 
@@ -25,12 +25,12 @@ ________________________________________________________________________________
 
     - DATASET_NAME
         
-        -GroundTruths:  contains a folder for each cateogry with the same structure below. You can skip folders you won't need, e.g. scanpaths if you are only working with saliency. 
+     - GroundTruths:  Contains a folder for each cateogry with the same structure below. You can skip folders you won't need, e.g. scanpaths if you are only working with saliency. 
   
-         - STIMULI : contains original images.
+         - STIMULI : Contains original images.
                   They can have different file format (jpg, jpeg, png,...). Needed for scanpaths. Can skip for saliency metric calculations
                   
-         - FIXATION_MAPS : contains a fixation map of each original image
+         - FIXATION_MAPS : Contains a fixation map of each original image
             they are matrices of zeros (NON-fixated pixels) and 255's (fixated
             pixels). They can have different file format (jpg, jpeg, png,...)
             Needed for AUC-Judd, KLdiv, NSS and Sim calculation
@@ -47,11 +47,11 @@ ________________________________________________________________________________
             Please note that fixation and ground saliency maps are both generated from human observation data, e.g. an eyetracking experiment.
 
        
-     - Results: Results from any model that predicts the saliency. These are the results you want to evaluate to determine how good your model is.
+     - Results: Predicted saliency maps from a model. These are the results you want to evaluate to determine how good your model is.
          
-          - Model_name
+          - Model_name:
             
-              -SALIENCY MAPS: for each category
+              - SALIENCY MAPS: for each category
             
             
 - Output
